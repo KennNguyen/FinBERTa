@@ -26,3 +26,13 @@ The primary objective of this project is to conduct a comparative analysis of Ro
 ### Expected Outcomes: 
 
 The project expects to demonstrate the efficacy of domain-specific pre-training in sentiment analysis tasks. The results are anticipated to provide insights into how pre-training on a specialized corpus can enhance a model's interpretive accuracy and contextual understanding in a specific field like finance.
+
+## Built With:
+
+- ### PyTorch: An open-source machine learning library for Python, favored for its flexibility, ease of use, and dynamic computational graph, that facilitates building deep learning models.
+
+- ### PyTorch Utilities: Auxiliary tools and libraries that extend PyTorch, offering additional functionalities like model optimization and simplified coding interfaces to enhance development efficiency.
+
+- ### Datasets by Hugging Face: A lightweight Python library providing easy access to a vast array of machine learning datasets, designed to simplify data loading and preprocessing for quicker experimentation.
+
+- ### Transformers by Hugging Face: A comprehensive library that provides pre-trained models for natural language processing tasks, enabling easy utilization and fine-tuning of state-of-the-art NLP models with minimal effort.
