@@ -29,10 +29,10 @@ The project expects to demonstrate the efficacy of domain-specific pre-training 
 
 ## Built With:
 
-- ### PyTorch: An open-source machine learning library for Python, favored for its flexibility, ease of use, and dynamic computational graph, that facilitates building deep learning models.
+- PyTorch: An open-source machine learning library for Python, favored for its flexibility, ease of use, and dynamic computational graph, that facilitates building deep learning models.
 
-- ### PyTorch Utilities: Auxiliary tools and libraries that extend PyTorch, offering additional functionalities like model optimization and simplified coding interfaces to enhance development efficiency.
+- PyTorch Utilities: Auxiliary tools and libraries that extend PyTorch, offering additional functionalities like model optimization and simplified coding interfaces to enhance development efficiency.
 
-- ### Datasets by Hugging Face: A lightweight Python library providing easy access to a vast array of machine learning datasets, designed to simplify data loading and preprocessing for quicker experimentation.
+- Datasets by Hugging Face: A lightweight Python library providing easy access to a vast array of machine learning datasets, designed to simplify data loading and preprocessing for quicker experimentation.
 
-- ### Transformers by Hugging Face: A comprehensive library that provides pre-trained models for natural language processing tasks, enabling easy utilization and fine-tuning of state-of-the-art NLP models with minimal effort.
+- Transformers by Hugging Face: A comprehensive library that provides pre-trained models for natural language processing tasks, enabling easy utilization and fine-tuning of state-of-the-art NLP models with minimal effort.
