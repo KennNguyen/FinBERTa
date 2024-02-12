@@ -4,11 +4,11 @@
 
 This project is centered around the advanced language model, RoBERTa, and its application in understanding the nuances of sentiment in financial news. The study is conducted in two distinct stages to evaluate the impact of domain-specific pre-training on the model's performance.
 
-### Stage One: Baseline Sentiment Training: (On-Going)
+### Stage One: Baseline Sentiment Training: (Complete)
 
 In the first stage, RoBERTa is directly employed to analyze the sentiment of financial news articles without any prior specialized training in the financial domain. This stage aims to establish a baseline for the model's ability to interpret and classify sentiments in the context of financial news, relying solely on its general language understanding capabilities.
 
-### Stage Two: Financial Corpus Pre-Training: (Upcoming)
+### Stage Two: Financial Corpus Pre-Training: (On-Going)
 
 The second stage introduces an additional pre-training phase where RoBERTa is first exposed to a comprehensive financial corpus. This step is designed to fine-tune the model's understanding of financial jargon, concepts, and contexts. Following this domain-specific training, the model is then trained for sentiment analysis, similar to the first stage.
 
