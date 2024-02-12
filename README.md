@@ -41,4 +41,4 @@ The project expects to demonstrate the efficacy of domain-specific pre-training 
 
 ![finberta baseline training](https://github.com/KennNguyen/FinBERTa/blob/main/image/finberta%20baseline%20training.png)
 
-The model scored an average of 80% accuracy on the testing dataset, but when introduced to a larger and more diverse dataset, scored an average accuracy score of 65%. My assumption for this performance difference is the vast variablity in terms of the larger dataset, as well as the difference in mean and standard deviation of sentiment labels in each dataset.
+The model scored an average of 80% accuracy on the testing dataset, but when introduced to a larger and more diverse dataset, scored an average accuracy score of 65%. My assumption for this performance difference is the vast variablity in terms of the larger dataset, as well as the difference in mean and standard deviation of sentiment labels between the datasets.
