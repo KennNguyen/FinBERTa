@@ -36,3 +36,9 @@ The project expects to demonstrate the efficacy of domain-specific pre-training 
 - Datasets by Hugging Face: A lightweight Python library providing easy access to a vast array of machine learning datasets, designed to simplify data loading and preprocessing for quicker experimentation.
 
 - Transformers by Hugging Face: A comprehensive library that provides pre-trained models for natural language processing tasks, enabling easy utilization and fine-tuning of state-of-the-art NLP models with minimal effort.
+
+## Baseline Sentiment Training Results:
+
+![finberta baseline training]()
+
+The model scored an average of 80% accuracy on the testing dataset, but when introduced to a larger and more diverse dataset, scored an average accuracy score of 65%. My assumption for this performance difference is the vast variablity in terms of the larger dataset, as well as the difference in mean and standard deviation of sentiment labels in each dataset.
